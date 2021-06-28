@@ -51,6 +51,11 @@
 			<groupId>org.springdoc</groupId>
 			<version>1.4.4</version>
 		</dependency>
+		<dependency>
+			<artifactId>mysql-connector-java</artifactId>
+			<groupId>mysql</groupId>
+			<scope>runtime</scope>
+		</dependency>
 	</dependencies>
 
 	<build>
